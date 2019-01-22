@@ -1,0 +1,26 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  activerecord:
+    attributes:
+      spree/promotion:
+        multi_coupon: Multi Coupon
+    models:
+      spree/promotion/code:
+        one: Code
+        other: Codes
+  spree:
+    user: User
+    promotion_code:
+      add_new_codes: Add New Code
+      already_present: has already been taken
+      back_to_promotion: Back to Promotion
+      back_to_promotion_codes: Back to Promotion Codes
+      codes: Promotion Codes
+      edit_code: Edit Code
+      multi_coupon: Multi Coupon
+      new_code: New Code
+      promotion_codes: Promotion Codes
+      used: used
+      view_codes: View Codes
